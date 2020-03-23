@@ -20,3 +20,7 @@ O 1º HACKATHON – DESAFIO COVID-19 será realizado entre os dias **23** e **27
 O trabalho será em caráter voluntário. O hackathon contará com a orientação técnica da Escola de Saúde - Curso de Medicina, Escola Politécnica e Escola de Direito da Unisinos.
 
 Para mais informações, entrar em contato através dos emails unitec@unisinos.br ou contato@eaglecare.com.br. 
+
+# Para Iniciar
+
+Através desta [wiki](https://github.com/eagle-id/hackathon-covid-19/wiki) , você terá todas as informações referentes a cada um dos desafios. Boa sorte!
