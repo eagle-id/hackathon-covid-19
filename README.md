@@ -5,7 +5,7 @@ Para acessar, basta utilizar estes 3 links:
 
 * [Chatbot para auto-exame](https://github.com/eagle-id/chatbot-auto-exame)
 * [Chat para atendimento via mensagem](https://github.com/eagle-id/chat-atendimento-por-mensagem)
-* [Chat por vídeo para Teleconsulta](https://github.com/eagle-id/chat-video-teleconsulta)
+* [Chat por vídeo para teleconsulta](https://github.com/eagle-id/chat-video-teleconsulta)
 
 ---
 
