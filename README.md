@@ -1,4 +1,15 @@
-# hackathon-covid-19
+# Atualização
+
+Conforme dito no regulamento deste Hackathon, todo o código das três funcionalidades desenvolvidas durante o desafio está sendo disponibilizado neste repositório do Github, sob a licença _Creative Commons_, de forma que é livre seu compartilhamento, implementação e uso.
+Para acessar, basta utilizar estes 3 links:
+
+* [Chatbot para auto-exame](https://github.com/eagle-id/chatbot-auto-exame)
+* [Chat para atendimento via mensagem](https://github.com/eagle-id/chat-atendimento-por-mensagem)
+* [Chat por vídeo para Teleconsulta](https://github.com/eagle-id/chat-video-teleconsulta)
+
+---
+
+# Hackathon-covid-19
 Projeto destinado a auxiliar contra o combate ao COVID-19
 
 ## Apresentação
@@ -24,3 +35,5 @@ Para mais informações, entrar em contato através dos emails unitec@unisinos.b
 # Para Iniciar
 
 Através desta [wiki](https://github.com/eagle-id/hackathon-covid-19/wiki) , você terá todas as informações referentes a cada um dos desafios. Boa sorte!
+
+
